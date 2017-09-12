@@ -6,7 +6,7 @@ Download and include in the extensions folder of the adapt framework.
 
 Add the ids of the two elements you would like to switch between
 
-{ . 
+{  
   "_id": "adapt-switch",  
   "_parentId": "parent",  
   "_type": "component",  
@@ -14,9 +14,9 @@ Add the ids of the two elements you would like to switch between
   "_classes": "",  
   "_layout": "full",  
   "value": "Switch",  
-  "switch": { .  
+  "switch": {     
       "0" : "#first",    
-      "1" : "#second" . 
+      "1" : "#second" 
   },  
   "displayTitle": ""  
 },
