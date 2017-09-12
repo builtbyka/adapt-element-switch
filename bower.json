@@ -1,0 +1,17 @@
+{
+    "name": "adapt-switch-button",
+    "repository": "",
+    "framework": "^1.0.0",
+    "version": "1.0.0",
+    "homepage": "",
+    "issues": "",
+    "displayName": "Switch button for Adapt",
+    "extension": "Switch button for Adapt",
+    "description": "Switch between divs / images etc",
+    "main": "/js/adapt-switch-button.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3"
+}
